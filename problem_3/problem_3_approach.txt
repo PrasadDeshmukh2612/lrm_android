@@ -1,0 +1,6 @@
+Problem 3 approach
+
+Server/Json driven user interface
+
+
+This application is created by using android jetpack compose,where composable function will be rendered on the fields present in json.
